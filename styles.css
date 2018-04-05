@@ -1,0 +1,28 @@
+#bodysize {
+  width: 322px;
+}
+#list {
+  list-style-type: none;
+  padding: 0;
+}
+.interesting {
+  font-style: italic;
+}
+.labels {
+  font-weight: bold;
+}
+.placeholderimage {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+.borders {
+  border: 1px solid #e0e0eb;
+  padding: 0 10px 10px;
+}
+.shadow {
+  box-shadow: 5px 5px 0px #eee;
+}
+.backcolor {
+  background-color: #d5d5d5;
+}
